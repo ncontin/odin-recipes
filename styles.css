@@ -1,0 +1,25 @@
+#main-title {
+  text-align: center;
+  color: azure;
+  background-color: black;
+  font-size: 100px;
+  font-family: "Sofia", sans-serif;
+  text-shadow: 3px 3px 3px #ababab;
+}
+
+.main-recipes {
+  font-size: 40px;
+  text-align: center;
+}
+
+.las {
+  background-color: green;
+}
+
+.carb {
+  background-color: red;
+}
+
+body {
+  background-color: #328d94;
+}
